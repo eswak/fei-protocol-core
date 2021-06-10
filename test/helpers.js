@@ -86,6 +86,7 @@ module.exports = {
     // utils
     ZERO_ADDRESS,
     MAX_UINT256,
+    contract,
     web3,
     BN,
     expectEvent,
